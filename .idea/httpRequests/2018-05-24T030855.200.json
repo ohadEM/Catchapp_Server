@@ -1,0 +1,30 @@
+{
+  "Financial asset": {
+    "englishTitle": "Financial asset",
+    "title": "Financial asset",
+    "url": "https://en.wikipedia.org/wiki/Financial_asset",
+    "summary": "A financial asset is a non-physical asset whose value is derived from a contractual claim, such as bank deposits, bonds, and stocks. Financial assets are usually more liquid than other tangible assets, such as commodities or real estate, and may be traded on financial markets.",
+    "image": ""
+  },
+  "Bond (finance)": {
+    "englishTitle": "Bond (finance)",
+    "title": "איגרת חוב",
+    "url": "https://he.wikipedia.org/wiki/%D7%90%D7%99%D7%92%D7%A8%D7%AA_%D7%97%D7%95%D7%91",
+    "summary": "איגֶרֶת חוב (אָגָ\"ח. בריבוי איגְרות חוב או אג\"חים) היא נייר ערך המהווה תעודת התחייבות לתשלום חוב. זהו מכשיר פיננסי בעזרתו לווים גופים שונים כסף.\nבהנפקת איגרת חוב, מקבל מנפיק האיגרת סכום כסף מרוכש האיגרת מראש, ומתחייב לרוב, בתמורה, לשלם לשיעורין את הסכום הנקוב (לעיתים בתוספת הצמדה), וכן ריבית, במועדים עתידיים הנקובים בנייר.\nשני הסוגים המקובלים ביותר של איגרות חוב הן איגרות המונפקות על ידי חברות גדולות וגורמים ממשלתיים.",
+    "image": "https://upload.wikimedia.org/wikipedia/he/c/cb/Givatim_bond.jpg"
+  },
+  "Asset": {
+    "englishTitle": "Asset",
+    "title": "נכס",
+    "url": "https://he.wikipedia.org/wiki/%D7%A0%D7%9B%D7%A1",
+    "summary": "בתחום החשבונאות, נכס מוגדר כמשאב הנמצא בשליטתה של ישות (בדרך כלל חברה) וצפוי להביא לישות הטבות כלכליות בעתיד.\nלהלן רשימה חלקית של תקנים בינלאומיים העוסקים בסוגים מסוימים של נכסים:\n\nIFRS5 - נכסים לא שוטפים המוחזקים למכירה\nIAS2 - מלאי\nIAS16 - רכוש קבוע\nIAS36 - ירידת ערך נכסים\nIAS37 - נכסים תלויים\nIAS38 - נכסים בלתי מוחשיים\nIAS39, IAS32, IFRS7 - נכסים פיננסיים\nIAS40 - נדל\"ן להשקעה.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/P_Economy.png"
+  },
+  "Money": {
+    "englishTitle": "Money",
+    "title": "כסף (אמצעי תשלום)",
+    "url": "https://he.wikipedia.org/wiki/%D7%9B%D7%A1%D7%A3_(%D7%90%D7%9E%D7%A6%D7%A2%D7%99_%D7%AA%D7%A9%D7%9C%D7%95%D7%9D)",
+    "summary": "בכלכלה, כסף הוא אמצעי-חליפין פיזי או רשומה ממוחשבת שתמורתה ניתן לקבל טובין או שירותים. מטרתו לפשט את פעולות הקניה, המכירה והתשלום עבור סחורות, עבודה או שירותים. נהוג להסביר כי אמצעי התשלום המוסכם – הכסף, מפשט את עסקות החליפין היות שהוא מאפשר לבני האדם להימנע מלחשב מספר עצום של יחסי מחירים בין מוצרים שבהם הם נתקלים או להם נזקקים,  מדובר בהסבר תאורטי על מקומו של הכסף בחברה ואין כל עדות היסטורית או אנתרופולוגית לחברות שנשענו על סחר חליפין ללא שימוש כלשהו בכסף.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Japan_commodity_money_before_the_8th_century.jpg"
+  }
+}

@@ -1,0 +1,488 @@
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: ronaldo
+lang: en
+Accept-Language: he
+
+<> 2018-05-25T124930.200.json
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: ronaldo
+lang: en
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: ronaldo
+lang: en
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: ronaldo
+lang: en
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: ronaldo
+lang: en
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: ronaldo
+lang: en
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: ronaldo
+lang: en
+Accept-Language: he
+
+<> 2018-05-24T083053.200.json
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: mti
+lang: en
+Accept-Language: he
+
+<> 2018-05-24T083028.200.json
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: mti
+lang: en
+Accept-Language: he
+
+<> 2018-05-24T083006.200.json
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: mti
+lang: en
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: mti
+lang: en
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: mti
+lang: en
+Accept-Language: he
+
+<> 2018-05-24T082354.200.json
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: mti
+lang: en
+Accept-Language: he
+
+<> 2018-05-24T082146.200.json
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: mti
+lang: en
+Accept-Language: he
+
+<> 2018-05-24T082019.200.json
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: mti
+lang: en
+Accept-Language: he
+
+<> 2018-05-24T081817.200.json
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: mti
+lang: en
+Accept-Language: he
+
+<> 2018-05-24T081735.200.json
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: mti
+lang: en
+Accept-Language: he
+
+<> 2018-05-24T081005.200.json
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: mti
+lang: en
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: deer
+lang: he
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: deer
+lang: he
+Accept-Language: he
+
+<> 2018-05-24T054820.200.json
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: deer
+lang: he
+Accept-Language: he
+
+<> 2018-05-24T054716.200.json
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: lion
+lang: he
+Accept-Language: he
+
+<> 2018-05-24T045650.200.json
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: christiano ronaldo
+lang: he
+Accept-Language: he
+
+<> 2018-05-24T045622.200.json
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: christiano ronaldo
+lang: he
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: christiano ronaldo
+lang: he
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: christiano ronaldo
+lang: he
+Accept-Language: he
+
+<> 2018-05-24T045328.200.json
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: christiano ronaldo
+lang: he
+Accept-Language: he
+
+<> 2018-05-24T045126.200.json
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: christiano ronaldo
+lang: he
+Accept-Language: he
+
+<> 2018-05-24T045102.200.json
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: christiano ronaldo
+lang: he
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: christiano ronaldo
+lang: he
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: christiano ronaldo
+lang: he
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: christiano ronaldo
+lang: he
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: but when it comes to assets things like money, financial assets like stocks and bonds
+lang: he
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: but when it comes to assets things like money, financial assets like stocks and bonds
+lang: he
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: but when it comes to assets things like money, financial assets like stocks and bonds
+lang: he
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: but when it comes to assets things like money, financial assets like stocks and bonds
+lang: he
+Accept-Language: he
+
+<> 2018-05-24T030855.200.json
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: but when it comes to assets things like money, financial assets like stocks and bonds
+lang: he
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: but when it comes to assets things like money, financial assets like stocks and bonds
+lang: he
+Accept-Language: he
+
+<> 2018-05-24T030427.200.json
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: but when it comes to assets things like money, financial assets like stocks and bonds
+lang: he
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: but when it comes to assets things like money, financial assets like stocks and bonds
+lang: he
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: but when it comes to assets things like money, financial assets like stocks and bonds
+lang: he
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: but when it comes to assets things like money, financial assets like stocks and bonds
+lang: he
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: but when it comes to assets things like money, financial assets like stocks and bonds
+lang: he
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: but when it comes to assets things like money, financial assets like stocks and bonds
+lang: he
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: but when it comes to assets things like money, financial assets like stocks and bonds
+lang: he
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: but when it comes to assets things like money, financial assets like stocks and bonds
+lang: he
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: but when it comes to assets things like money, financial assets like stocks and bonds
+lang: he
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: but when it comes to assets things like money, financial assets like stocks and bonds
+lang: he
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: but when it comes to assets things like money, financial assets like stocks and bonds
+lang: he
+Accept-Language: he
+
+###
+
+GET http://localhost:8010/phrases
+Accept: */*
+Cache-Control: no-cache
+text: but when it comes to assets things like money, financial assets like stocks and bonds
+lang: he
+Accept-Language: he
+
+###
+

@@ -1,0 +1,39 @@
+{
+  "name": "milab-project",
+  "version": "1.0.0",
+  "description": "node-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/speech": "^1.4.0",
+    "asyncawait": "^1.0.6",
+    "body-parser": "^1.18.2",
+    "cogserv-text-analytics": "^0.3.2",
+    "express": "^4.16.3",
+    "express-fileupload": "^0.4.0",
+    "google-kgsearch": "^0.1.1",
+    "google-speech-api": "^1.2.0",
+    "got": "^8.3.1",
+    "heroku": "^0.2.0",
+    "knowledge-graph-js": "^1.4.0",
+    "knowledge-node": "^1.0.0",
+    "metascraper": "^3.11.0",
+    "ms-bing-speech-service": "^1.3.3",
+    "node-bing-api": "^4.0.0",
+    "node-summary": "^1.2.0",
+    "nodejs-text-summarizer": "^2.0.3",
+    "nodemon": "^1.15.1",
+    "request": "^2.83.0",
+    "summarybot": "0.0.7",
+    "textrazor": "^2.1.0",
+    "wav-arraybuffer": "^0.1.0",
+    "wikijs": "^4.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.15.1"
+  }
+}
